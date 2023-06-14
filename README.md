@@ -1,5 +1,5 @@
 ### Hi there 👋, Pasindu Jayasinghe
-![](https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/overlay/background-image/)
+![](https://github.com/PasinduJayasinghe/PasinduJayasinghe/blob/main/Untitled-1.png)
 
 My name is Pasindu and I'm an undergraduate at the University of Peradeniya Sri Lanka. My major subjects are Statistics and Operations Research minor in Computer Science. Currently, I'm working on data engineering projects to improve my resume and move on to the world of data engineering.
 
