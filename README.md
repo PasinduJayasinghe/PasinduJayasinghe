@@ -37,6 +37,10 @@ My name is Pasindu and I'm an undergraduate at the University of Peradeniya Sri 
               
   </a>
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img  alt="Pandas" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+</a>
+
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
       <img  alt="Azure" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
               
