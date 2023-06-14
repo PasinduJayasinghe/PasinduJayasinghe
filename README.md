@@ -8,13 +8,4 @@ Skills: R / Python / Java / MS Excel / SQL / EDA / Data Wrangling / Optimization
 - 🌱 I’m currently learning Data Engineering / ETL 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu Jayasinghe)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasindu Jayasinghe&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pasindu Jayasinghe)  
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe)](https://github.com/anuraghazra/github-readme-stats)
