@@ -8,4 +8,4 @@ My name is Pasindu and I'm an undergraduate at the University of Peradeniya Sri 
 - 🌱 I’m currently learning Data Engineering / ETL 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
