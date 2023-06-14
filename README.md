@@ -49,3 +49,16 @@ My name is Pasindu and I'm an undergraduate at the University of Peradeniya Sri 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img  alt="TensorFlow" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  width="40" height="40""/>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img  alt="Adobe Illustrator" height="45px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="40" height="40""/>
+</a>
+
+
+
+
+
+
