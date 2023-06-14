@@ -1,9 +1,12 @@
 ## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Pasindu.;Welcome+to+my+github+portofolio;)](https://git.io/typing-svg)
+
 ![](https://github.com/PasinduJayasinghe/PasinduJayasinghe/blob/main/Untitled-1.png)
 
-My name is Pasindu and I'm an undergraduate at the University of Peradeniya Sri Lanka. My major subjects are Statistics and Operations Research and minor in Computer Science. Currently, I'm working on data engineering projects to improve my resume and move on to the world of data engineering.
+I'm an undergraduate at the University of Peradeniya Sri Lanka. My major subjects are Statistics and Operations Research and minor in Computer Science. Currently, I'm working on data engineering projects to improve my resume and move on to the world of data engineering.
 
-### Skills: R / Python / Java / MS Excel / SQL / EDA / Data Wrangling / Optimization using MS Excel and Python
+### Skills: EDA / Data Wrangling using R / Optimization using MS Excel and Python / Statistical Modeling
 
 - 🌱 I’m currently learning Data Engineering / ETL 
 
