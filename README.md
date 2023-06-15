@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4EF7F5&width=435&lines=I'm+Pasindu.;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4EF7F5&width=435&lines=I'm+Pasindu;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 
 ![](https://github.com/PasinduJayasinghe/PasinduJayasinghe/blob/main/Untitled-1.png)
 
