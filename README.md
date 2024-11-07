@@ -25,6 +25,10 @@ I hold a Statistics and Operations degree(hons) at the University of Peradeniya 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 
 <div align="center">
+   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank" rel="noreferrer">
+      <img  alt=".Net" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376369/dotnet.svg" />
+         
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
          
@@ -49,10 +53,7 @@ I hold a Statistics and Operations degree(hons) at the University of Peradeniya 
               
   </a>
 
-<a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-      <img  alt="Apache Kafka" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-              
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   </a>
