@@ -4,11 +4,11 @@
 
 ![](https://github.com/PasinduJayasinghe/PasinduJayasinghe/blob/main/Untitled-1.png)
 
-I'm an undergraduate at the University of Peradeniya Sri Lanka. My major subjects are Statistics and Operations Research and minor in Computer Science. Currently, I'm working on data engineering projects to improve my resume and move on to the world of data engineering.
+I hold a Statistics and Operations degree(hons) at the University of Peradeniya and an undergraduate in Bachelor of Information Technology at University of Moratuwa Sri Lanka.Currently, I'm working at Bitzify as a software engineering intern mainly focusing .Net and MS Azure.
 
-### Skills: EDA / Data Wrangling using R / Optimization using MS Excel and Python / Statistical Modeling
+### Skills: Sofware Engineering / Programming / Web Developing / EDA / Data Wrangling using R / Optimization using MS Excel and Python / Statistical Modeling
 
-- 🌱 I’m currently learning Data Engineering / ETL 
+- 🌱 I’m currently learning .Net
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
