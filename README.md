@@ -4,7 +4,7 @@
 
 ![](https://github.com/PasinduJayasinghe/PasinduJayasinghe/blob/main/Untitled-1.png)
 
-I hold a Statistics and Operations degree(hons) at the University of Peradeniya and an undergraduate in Bachelor of Information Technology at University of Moratuwa Sri Lanka.Currently, I'm working at Bitzify as a software engineering intern mainly focusing .Net and MS Azure.
+I hold a honours degree in Statistics and Operations at the University of Peradeniya and an undergraduate in Bachelor of Information Technology at University of Moratuwa Sri Lanka.Currently, I'm working at Bitzify as a software engineering intern mainly focusing .Net and MS Azure.
 
 ### Skills: Sofware Engineering / Programming / Web Developing / EDA / Data Wrangling using R / Optimization using MS Excel and Python / Statistical Modeling
 
