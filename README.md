@@ -34,11 +34,6 @@ I hold a honours degree in Statistics and Operations at the University of Perade
          
   </a>
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-              
-  </a>
-
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
               
