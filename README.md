@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<!-- Profile views + socials -->
+<!-- Profile views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PasinduJayasinghe&style=for-the-badge&color=4EF7F5&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
@@ -49,29 +49,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5&icon_color=4EF7F5" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduJayasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5&icon_color=4EF7F5&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduJayasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5&cache_seconds=86400" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduJayasinghe&theme=tokyonight&hide_border=true&background=0d1117&ring=4EF7F5&fire=4EF7F5&currStreakLabel=4EF7F5" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduJayasinghe&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4EF7F5&line=4EF7F5&point=ffffff" alt="Activity graph" width="95%" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PasinduJayasinghe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com/?user=PasinduJayasinghe&theme=tokyonight&hide_border=true&background=0d1117&ring=4EF7F5&fire=4EF7F5&currStreakLabel=4EF7F5" alt="GitHub streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/output-3d/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/output-3d/profile-season-animate.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/output-3d/profile-night-rainbow.svg" width="95%" />
+  </picture>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -86,14 +82,14 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://https://github.com/PasinduJayasinghe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4EF7F5?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <a href="https://pasindujayasinghe.github.io/Pasindu-Jayasinghe/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4EF7F5?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thisarajayasinghe07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
