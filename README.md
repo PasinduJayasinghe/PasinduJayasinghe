@@ -20,12 +20,9 @@
 
 ## 🚀 About Me
 
-- 💼 **Software Engineer @ Sitecore** — working with XM Cloud, Agentic Studio & Content SDK
-- 🎓 BSc (Hons) in **Statistics & Operations Research** — University of Peradeniya
-- 🎓 Reading **Bachelor of Information Technology** — University of Moratuwa
-- 🌱 Currently building **Peror** — an Operations Research optimization platform (Next.js + FastAPI)
-- ⚡ Fun fact: I optimize everything — code, routes, schedules… even my GPA 😄
-
+- 💼 **Software Engineer @ Sitecore** - working with XM Cloud, Agentic Studio & Content SDK
+- 🎓 BSc (Hons) in **Statistics & Operations Research** - University of Peradeniya
+- 🎓 Reading **Bachelor of Information Technology** - University of Moratuwa
 <br clear="right"/>
 
 <!-- Animated divider -->
@@ -89,13 +86,13 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://pasindujayasinghe.github.io/Pasindu-Jayasinghe/" target="_blank">
+  <a href="https://pasindujayasinghe.github.io/PasinduJayasinghe/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4EF7F5?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:thisarajayasinghe07@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
