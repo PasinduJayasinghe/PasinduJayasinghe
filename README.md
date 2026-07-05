@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PasinduJayasinghe&theme=tokyonight&hide_border=true&background=0d1117&ring=4EF7F5&fire=4EF7F5&currStreakLabel=4EF7F5" alt="GitHub streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PasinduJayasinghe" alt="GitHub Streak" /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
