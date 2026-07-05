@@ -15,6 +15,13 @@
 
 <br/>
 
+<!-- Personal banner -->
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/main/Untitled-1.png" alt="Pasindu Jayasinghe banner" />
+</div>
+
+<br/>
+
 <!-- About me with animated GIF -->
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
@@ -59,14 +66,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🏙️ 3D Contribution Skyline
+## 🧭 The Optimization Network
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/main/profile-3d-contrib/profile-season-animate.svg" />
-    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-  </picture>
+  <img width="95%" src="https://raw.githubusercontent.com/PasinduJayasinghe/PasinduJayasinghe/main/optimization-network.svg" alt="Animated optimization network" />
 </div>
 
 ## 🐍 Contribution Snake
