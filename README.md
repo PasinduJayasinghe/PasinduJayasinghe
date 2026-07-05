@@ -86,10 +86,10 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://pasindujayasinghe.github.io/PasinduJayasinghe/" target="_blank">
+  <a href="https://https://github.com/PasinduJayasinghe/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4EF7F5?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
-  <a href="https://https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/ target="_blank">
+  <a href="https://https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thisarajayasinghe07@gmail.com">
