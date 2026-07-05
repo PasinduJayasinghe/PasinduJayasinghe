@@ -56,11 +56,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PasinduJayasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5&icon_color=4EF7F5&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduJayasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4EF7F5&cache_seconds=86400" alt="Top languages" />
-</div>
-
-<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PasinduJayasinghe" alt="GitHub Streak" /></a>
 </div>
 
