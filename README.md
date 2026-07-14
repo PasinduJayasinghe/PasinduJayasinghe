@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Software Engineer @ Sitecore** - working with XM Cloud, Agentic Studio & Content SDK
+- 💼 **Software Engineer @ Sitecore** - working with SitecoreAI CMS, Agentic Studio & Content SDK
 - 🎓 BSc (Hons) in **Statistics & Operations Research** - University of Peradeniya
 - 🎓 Reading **Bachelor of Information Technology** - University of Moratuwa
 <br clear="right"/>
