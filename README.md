@@ -66,7 +66,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://pasindujayasinghe.github.io/Pasindu-Jayasinghe/" target="_blank">
+  <a href="https://pasindujayasinghe.github.io/Pasindu-Jayasinghe//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4EF7F5?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/thisara-pasindu-jayasinghe-0289271a4/" target="_blank">
